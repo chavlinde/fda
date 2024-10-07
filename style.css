@@ -1,6 +1,12 @@
 :root{
-    --fundo:#4B0082;
+    --fundo:#935cce;
 --cor-frente:#9370DB;
---cor-verso:#F5FFFA;
---destaque:#00FF00;
+--cor-verso:#b6c0ee;
+--destaque:#9000ff;
+--preto:#000000;
+--branco:#ffffff;
 }
+body{
+    background-color: var(--fundo);
+}
+
