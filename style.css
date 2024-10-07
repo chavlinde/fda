@@ -17,5 +17,6 @@ footer{
     background-color: var( --branco);
     color: var(--preto);
     width: 100%;
+    text-align: center;
 }
 
