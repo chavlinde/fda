@@ -71,7 +71,7 @@ flex-wrap: wrap;
     transform: rotateY(180deg);
 }
 
-.cartao:hover .conteudo-cartao{
+.cartao.active .conteudo-cartao{
     transform: rotateY(180deg);
 }
 
