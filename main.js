@@ -5,13 +5,13 @@ cartao.className = 'block';
 cartao.innerHTML = ` 
 <div class="conteudo-catao">
 
-  <h3>categoria</h3>
+  <h3>${categoria}</h3>
   <div class="pergunta-cartao">
-    <p>pergunta</p>
+    <p>${pergunta}</p>
   </div>
   
   <div class="respostas-cartao">
-    <p>resposta</p>
+    <p>${resposta}</p>
   </div>
 </div>
 `
