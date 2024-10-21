@@ -60,7 +60,7 @@ flex-wrap: wrap;
     font-weight: 500;
 }
 
-.pergunta-cartao{
+.resposta-cartao{
     font-weight: 700;
     color: var(--cor-verso);
 }
