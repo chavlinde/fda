@@ -42,9 +42,9 @@ flex-wrap: wrap;
 }
 
 .conteudo-cartao h3{
-    border: 1px solid var(--fundo);
+    border: 1px solid var(--cor-verso);
     border-radius: 6rem;
-    color: var(--fundo);
+    color: var(--cor-verso);
     padding: 0.5rem;
     position: absolute;
     text-align: left;
