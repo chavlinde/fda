@@ -38,3 +38,13 @@ flex-wrap: wrap;
     background-color: var(--cor-frente);
     height: 100%;
 }
+
+.conteudo-cartao h3{
+    border: 1px solid var(--destaque);
+    border-radius: 6rem;
+    color: var(--destaque);
+    padding: 0.5rem;
+    position: absolute;
+    text-align: left;
+    font-size: 1.2vw;
+}
