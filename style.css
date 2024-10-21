@@ -66,8 +66,8 @@ flex-wrap: wrap;
 .respostas-cartao{
     font-weight: 700;
     color: var(--cor-verso);
-    background-color: var(--cor-verso);
-    border: 3px solid var(--destaque);
+    background-color: var(--cor-frente);
+    border: 3px solid var(--cor-verso);
     transform: rotateY(180deg);
 }
 
