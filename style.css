@@ -66,6 +66,9 @@ flex-wrap: wrap;
 .respostas-cartao{
     font-weight: 700;
     color: var(--cor-verso);
+    background-color: var(--cor-verso);
+    border: 3px solid var(--destaque);
+    transform: rotateY(180deg);
 }
 
 .cartao:hover .conteudo-cartao{
