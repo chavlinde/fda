@@ -56,3 +56,11 @@ flex-wrap: wrap;
     padding: 2rem;
     font-size: 1.4vw;
 }
+.pergunta-cartao{
+    font-weight: 500;
+}
+
+.pergunta-cartao{
+    font-weight: 700;
+    color: var(--fundo);
+}
