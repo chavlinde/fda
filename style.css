@@ -42,9 +42,9 @@ flex-wrap: wrap;
 }
 
 .conteudo-cartao h3{
-    border: 1px solid var(--cor-verso);
+    border: 1px solid var(--fundo);
     border-radius: 6rem;
-    color: var(--cor-verso);
+    color: var(--fundo);
     padding: 0.5rem;
     position: absolute;
     text-align: left;
@@ -62,5 +62,5 @@ flex-wrap: wrap;
 
 .pergunta-cartao{
     font-weight: 700;
-    color: var(--fundo);
+    color: var(--cor-verso);
 }
