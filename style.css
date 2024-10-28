@@ -9,8 +9,18 @@
 body{
     background-color: var(--fundo);
     margin: 0;
-
 }
+header{
+    background-color: var(--cor-frente);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+header a{
+    color: var(--branco);
+}
+
 footer{
     position: fixed;
     bottom: 0;
