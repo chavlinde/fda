@@ -40,3 +40,7 @@ footer{
     background-color: var(--cor-frente);
     padding: 40px;
 }
+
+.cartao:hover{
+    transform: scale(1.03);
+}
